@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Sayaka-Leyman
-- 👀 I’m interested in Coding,Piano and THIGHS
-- 🌱 I’m currently learning C++ and Java script
+<h1 align="center">🕷️ AZUKARI</h1>
+<p align="center">
+  <i>backend alchemist & cybersec explorer</i><br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=%23F7F7F7&center=true&vCenter=true&lines=backend+dev+%7C+cybersec+nerd;dark+theme+everything" />
+</p>
 
-<!---
-Sayaka-Leyman/Sayaka-Leyman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🧿 About Me
+```bash
+> whoami
+Azukari — backend developer with a passion for code obscurity and secure logic flows.
